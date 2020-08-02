@@ -41,7 +41,7 @@ while True:
 
 ```
 `yell ：`
-(https://i.imgur.com/lxaGOje.png)
+![alt](https://i.imgur.com/lxaGOje.png)
 
 ## Installation
 * `pip install -r requriements.txt`
