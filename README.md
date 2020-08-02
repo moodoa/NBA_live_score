@@ -40,6 +40,8 @@ while True:
     time.sleep(50)
 
 ```
+`yell：`
+![alt text](https://i.imgur.com/lxaGOje.png)
 
 ## Installation
 * `pip install -r requriements.txt`
